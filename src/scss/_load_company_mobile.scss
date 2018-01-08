@@ -1,0 +1,46 @@
+
+//mobile first load_user_perfil_mobile.scss
+
+#uPerfil{
+	width: 100%;	
+	height: auto;
+	margin-top: 4%;
+	background-color: rgba(0,0,0, 0.7);
+	border-radius: 10px;
+}
+
+	#uPerfil div{
+		width: 100%;
+		height: 80px;
+		font-size: 1.2rem;
+		color: white;
+		margin: 8px 0px;
+		margin: auto;
+		border-bottom: 1px solid white;
+		display: table;
+		background: $gradient_blue1;
+	}
+
+		#uPerfil div:last-child{
+			border-bottom: 0px solid transparent;
+		}
+
+		#uPerfil div:hover{
+			color: $hover_sobre_blue;
+		}
+
+		#uPerfil div span{
+			font-size: 2.5rem;
+			display: table-cell;
+			vertical-align: middle;		
+		} 
+
+		#uPerfil div h3{
+			width: 70%;
+			display: inline-block;
+			margin: 0px;
+			text-align: left;
+			display: table-cell;
+			vertical-align: middle;
+					}
+

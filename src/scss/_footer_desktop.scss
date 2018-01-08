@@ -1,0 +1,74 @@
+
+//tablets footer
+@media (min-width: 1150px) and (max-width: 2800px){
+
+	footer{
+		width: 100%;
+		height: auto;
+		margin: auto; 
+		display: none;		
+	}
+
+		#footer{
+			padding: 0% 0%;		
+			bottom: 0px;
+			background-color: $C_blue_DT_L;
+			display: none;
+		}
+
+			footer #footer #contact_dt{
+				display: inherit;
+				width: 45%;
+				height: auto;
+				font-size: 1.4rem;
+				font-weight: bold;
+				color: white;
+				padding-left: 50px;
+				cursor: pointer;
+			}
+
+				footer #footer #contact_dt span{
+					font-size: 1.5rem;
+					margin-right: 0%;
+					color: white;
+				}
+
+			footer #footer #help_dt{
+				display: inherit;
+				width: 45%;
+				height: auto;
+				font-size: 1.4rem;
+				font-weight: bold;
+				color: white;
+				padding-left: 50px;
+				cursor: pointer;
+			}
+
+				footer #footer #help_dt{
+					font-size: 1.5rem;
+					margin-right: 0%;
+					color: white;
+				}
+				
+
+			.acc_1{
+				width: 50%;
+				height: auto;
+				font-size: 1.2rem;
+				font-weight: bold;
+				padding: 0.5% 0%;
+				color: white;
+				cursor: pointer;
+
+			}
+
+				.acc_1 span{
+					font-size: 1.5rem;
+					margin-right: 5%;
+					color: white;
+				}
+
+
+}
+
+	

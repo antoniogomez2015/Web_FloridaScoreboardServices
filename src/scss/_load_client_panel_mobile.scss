@@ -1,0 +1,60 @@
+
+//mobile first footer
+
+#client_panel{
+	width: 100%;	
+	height: auto;
+	min-height: 100%;
+	padding-top: 4%;
+	margin: auto;
+}
+
+	#client_panel form{
+		width: 100%;
+		height: auto;
+		border-top: 10px solid green;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+	#client_panel div{
+		width: 100%;
+		height: auto;
+	}
+
+	#client_panel h2{
+		font-size: 1.2rem;
+		color: white;
+	}
+
+	#client_panel h3{
+		font-size: 1.2rem;
+		color: white;
+	}
+
+	#client_panel #mes{
+		width: 100%;
+		height: auto;		
+	}
+
+	#client_panel select{
+		width: 90%;
+		height: 50px;
+		font-size: 1.2rem;
+		color: white;
+		background-color: #555;
+	}
+
+	#client_panel input[type="button"]{
+		width: 90%;
+		height: 50px;
+		font-size: 1.2rem;
+		font-weight: 600;
+		color: white;
+		background-color: green;
+		border: 0px;
+	}
+
+
+
+
+	

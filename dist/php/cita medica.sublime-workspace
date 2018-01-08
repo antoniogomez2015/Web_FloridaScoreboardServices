@@ -1,0 +1,893 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"formulaio",
+				"formularios"
+			],
+			[
+				"html",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"mis",
+				"misIconos"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-weight"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ease",
+				"_ease-in"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"backgrou",
+				"background-attachment"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ord",
+				"border"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"wa",
+				"wrap"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"page",
+				"page2"
+			],
+			[
+				"lies",
+				"list-style"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"s",
+				"statusActive"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"new",
+				"newTime"
+			],
+			[
+				"ahora",
+				"ahoraMismo"
+			],
+			[
+				"sali",
+				"salida_T"
+			],
+			[
+				"año",
+				"añoActual"
+			],
+			[
+				"pr",
+				"proof2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"valo",
+				"valorDeMiCubo"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"upp",
+				"upper-roman"
+			],
+			[
+				"lo",
+				"lower-roman"
+			],
+			[
+				"o",
+				"upper-roman"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"cata",
+				"catalogo_L2_1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"helvetica"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"grid",
+				"grid_inmuebles"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"col",
+				"colummns"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"tag",
+				"tag_L1_bottom"
+			],
+			[
+				"sl",
+				"slow"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"en",
+				"enlace"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"rep",
+				"background-repeat"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ce",
+				"cerra_ventana"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"mi",
+				"miNuevoObjeto2"
+			],
+			[
+				"pla",
+				"platfrom"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"use",
+				"userMessage3"
+			],
+			[
+				"user",
+				"userMessage1"
+			],
+			[
+				"us",
+				"userMessage2"
+			],
+			[
+				"on",
+				"onmouseout\tAttr"
+			],
+			[
+				"a",
+				"apelldos"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"medi",
+				"media_sportSystem"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"conta",
+				"containt"
+			],
+			[
+				"cont",
+				"containt"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pro",
+				"proveedores"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"book",
+				"Bookmarks: Select Next"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/php/10_sesiones_con_php.php",
+		"/C/xampp/htdocs/php/10_sesiones_dos_con_php.php",
+		"/C/xampp/htdocs/php/10_sesiones_tres_con_php.php",
+		"/C/xampp/htdocs/php/02_estructuras_de_control_condicional_if()_en_atributos_html.php",
+		"/C/xampp/htdocs/php/02_estructuras_de_control_condicional_if()_elseif()_endif_para_html.php",
+		"/C/xampp/htdocs/php/02_estructuras_de_control_condicional_if()_endif_para_html.php",
+		"/C/xampp/htdocs/php/06_metodos_strings_stripslashes()_eliminar_slashes_de_cadena_de_texto.php",
+		"/C/xampp/htdocs/php/09_formularios_comprobar_que_un_formulario_ha_sido_enviado_con_php.php",
+		"/C/xampp/htdocs/php/09_formularios_enviar_datos_a_la_misma_pagina_con_php.php",
+		"/C/xampp/htdocs/php/09_formularios_metodo_POST_envio_de_datos_a_php.php",
+		"/C/xampp/htdocs/php/09_formularios_metodo_GET_envio_de_datos_a_php.php",
+		"/C/xampp/htdocs/php/09_formularios_relacionamiento_con_formularios_y_php.php",
+		"/C/xampp/htdocs/php/00_generales.php",
+		"/C/xampp/htdocs/php/05_funciones.php",
+		"/C/xampp/htdocs/php/formularios/enviar.php",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/html_precostruido/formulario_de_registro_responsive.html",
+		"/C/xampp/htdocs/php/07_archivos_include.php",
+		"/C/xampp/htdocs/php/07_archivos_require.php",
+		"/C/xampp/htdocs/php/06_metodos_arrays_array_reverse()_invertir_el_orden_de_un_array.php",
+		"/C/xampp/htdocs/php/06_metodos_strings_substr()_sustraer_parte_de_cadena_de_texto.php",
+		"/C/xampp/htdocs/php/06_metodos_strings_strlen()_calcular_tamaño_de_cadena_de_texto.php",
+		"/C/xampp/htdocs/php/05_funciones_con_parametros.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_variables_funcion_print_r.php",
+		"/C/xampp/htdocs/php/04_ciclo_sentencia_break.php",
+		"/C/xampp/htdocs/php/04_ciclo_recorrer_un_array_con_el_ciclo_while.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_variables_isset().php",
+		"/C/xampp/htdocs/php/03_operadores_de_asignacion.php",
+		"/C/xampp/htdocs/php/03_operadores_de_comparacion.php",
+		"/C/xampp/htdocs/php/02_estructuras_de_control_condicional_if.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_rrecorrer_arrays.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_multidimensionales.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_asociativos.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_arrays_indexados.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_variables.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_constantes.php",
+		"/C/xampp/htdocs/php/01_estructuras_de_memoria_metodo_gettype().php",
+		"/C/xampp/htdocs/php/00_generales_concatenacion.php",
+		"/C/xampp/htdocs/php/01_variables.php",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Php/Estructura_y_Lenguaje/01_variables.php",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/xampp/htdocs/0_correoPlanes/Plantilla_OnLine.html",
+		"/C/xampp/htdocs/0_correoPlanes/planSocialMedia.html",
+		"/C/xampp/htdocs/grunt_pug_beautify/index.html",
+		"/C/xampp/htdocs/grunt_pug_beautify/proof.pug",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/000_grunt_guia_rapida.html",
+		"/C/xampp/htdocs/grunt_html_min/package.json",
+		"/C/xampp/htdocs/grunt_pug/Gruntfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/grunt/1_configurar_grunt.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web_y_Programacion/grunt/3_grunt_workflow.html",
+		"/C/xampp/htdocs/grunt_pug/src/proof2.js",
+		"/C/xampp/htdocs/grunt_pug/src/proof1.js",
+		"/C/xampp/htdocs/grunt_pug/dist/proof.min.js",
+		"/C/xampp/htdocs/grunt_pug/dist/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/99_grunt_uglify_minificar_javascript.html",
+		"/C/xampp/htdocs/grunt_pug/src/index.pug",
+		"/C/xampp/htdocs/grunt_pug/src/index.jade",
+		"/C/xampp/htdocs/grunt_pug/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/Gulp/000_guia_rapida_de_funcionamiento.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/web_y_programacion_v2/grunt/estructura de un proyecto grunt/less_sass/Gruntfile.js",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/closures.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/5_node_core_timers.html",
+		"/C/xampp/htdocs/sassalter/src/index.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/funciones_personalizadas.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_changing().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_join().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_push().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_splice().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_toString().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_unshift().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_lenght().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_pop.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/arrays_o_matrices_metodo_shift.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.prompt().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/operador_typeof().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/window.alert().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/console.log().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_for.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_ while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/javascript/bucle_do_while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/00_front_end_and_back_end.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/nodejs/4_node_core_objetos globales_process.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_bases_de_datos/0_generales.html",
+		"/C/xampp/htdocs/sassalter/src/css/main.scss",
+		"/C/xampp/htdocs/sassalter/src/css/main.css",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/6_sass_mixins.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/15_sass_Bucle_Each.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/14_sass_Bucle_while.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/16_sass_Bucle_for.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/13_sass_condicional_IF().html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/9_sass_import.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/7_sass_extend.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/5_sass_variables.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/3_sass_selectores_css.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/00_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/4_codigo_anidado_(Nesting).html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/Sass/000_sass_intro.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/0_generales.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/1_configurar_grunt.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/grunt/2_livereload.html",
+		"/C/xampp/htdocs/sassalter/Gruntfile.js",
+		"/C/xampp/htdocs/lessproof/src/index.html",
+		"/C/xampp/htdocs/lessproof/src/css/less_style.less",
+		"/C/xampp/htdocs/lessproof/src/css/less_style.css",
+		"/C/xampp/htdocs/lessproof/src/css/alter.less",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/11_mixins_en_less.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/bases_de_programacion/1_aplicaciones_isomorficas.html",
+		"/C/xampp/htdocs/lessproof/src/css/alter.css",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/7_marge_en_less.html",
+		"/C/xampp/htdocs/lessproof/dist/css/less_style.css",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/1_configurando_sublimet_text.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/1_configurar_grunt.html",
+		"/C/xampp/htdocs/lessproof/Gruntfile.js",
+		"/C/xampp/htdocs/lessproof/package.json",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/2_livereload.html",
+		"/C/Users/mono/AppData/Roaming/idesktop/DFolder/capetas y arvhicos/PROCESOS/Web y Programacion/less/3_grunt_workflow.html",
+		"/C/xampp/htdocs/lessproof/dist/index.html",
+		"/C/xampp/htdocs/sassproof/package.json",
+		"/C/xampp/htdocs/sassproof/Gruntfile.js",
+		"/C/xampp/htdocs/sassproof/dest/index.html",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/mono/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dist",
+			"slice",
+			"concat",
+			"toString",
+			"Splice",
+			"Push",
+			"Pop",
+			"entorno",
+			"confirm",
+			"alert",
+			"elemento",
+			"i",
+			"-(#{$",
+			"hijos",
+			"indice",
+			"var",
+			"div",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"elements",
+			"singleColor",
+			"header",
+			"var",
+			"aver",
+			"demo",
+			"proof",
+			"miBg",
+			"misIconos",
+			"iccons2",
+			"icon",
+			"type",
+			" $",
+			"type",
+			"width",
+			"Control",
+			"repetir",
+			"div",
+			"width",
+			"h2",
+			"_cerrar",
+			"h2",
+			"otros",
+			"ser",
+			"multiservicioshostelar",
+			"post_1_L1_tumb4",
+			"red",
+			" \n",
+			">\n",
+			"Villegas",
+			".hero-unit",
+			".hero/unit",
+			"btn-primary",
+			"h2",
+			"screen_divisiones_sub_divisiones_7"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ul"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cita medica.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"source\\css\\main - copia.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,204 @@
+//seción de loads, de scores tablets
+@media (min-width: 1150px) and (max-width: 2800px){
+
+	#scores_s{	
+		width: 100%;
+		height: auto;
+		margin: auto;
+		padding: 2% 0%;
+	}
+
+		#intro{
+			width: 100%;
+			height: auto;
+			margin: auto;
+			padding-bottom: 7%;
+			border-bottom: 1px solid #999;
+		}
+
+			#intro h2{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #666;
+				margin-bottom: 4%;
+			}
+
+			#intro p{
+				width: 90%;
+				height: auto;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.6rem;
+				line-height: 1.7;
+				text-align: justify;
+				color: #666;
+				margin: auto;
+				column-count: 3;
+				column-gap: 1.5rem;
+				column-rule: 1px solid #DCDEE0;
+			}	
+
+			#intro #c1 h3{				
+				display: none;
+			}
+
+		
+			#scores_s #intro .hiden{
+				display: inherit;
+			}
+
+			#more, #less{
+				display: none;
+			}
+				
+		#tops_b{			
+			display: none;
+		}
+
+		#topics{
+			display: none;			
+		}
+
+
+			#topics div{
+				width: 130px;
+				height: 130px;
+				border-radius: 50%;
+				color: white;
+				padding-top: 6%;
+				margin: 2% 3%;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.5rem;
+				font-weight: bold;
+				background-color: $C_blue_DT;	
+				display: inline-block;
+			}
+
+				#topics div:hover{
+					background-color: #193957;
+				}
+
+
+		#c1{
+			width: 100%;
+			height: auto;
+			display: none;
+			margin: 5% auto;
+		}
+
+			#c1 h3{
+				width: 60%;
+				height: 75px;
+				color: white;
+				padding: 2% 0%;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.6rem;
+				background-color: $C_blue_DT;
+				border-radius: 6px;			
+				margin: 1% auto;
+			}
+
+
+		#scores_s #sports{
+			display: initial;		
+			width: 100%;
+			height: auto;
+			margin: auto;
+			margin-top: 6%;
+			padding-bottom: 7%;
+			border-bottom: 0px solid #999;
+			text-align: center;
+		}
+
+			#scores_s #sports h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #555;				
+				padding: 0px 0px;
+				border-bottom: 0px solid #999;
+				border-top: 0px solid #999;
+			}
+
+			#scores_s #sports div{
+				font-size: 1.1rem;
+				display: inline-block;
+				width: 20%;
+				height: 60px;
+				margin: 1%;
+				color: #777;
+				text-align: left;
+				padding: 2% 3% 5% 6%;
+				background-color: #EEEEEF;
+				border-radius: 5px;
+			}
+
+
+		#scores_s #tec{
+			width: 50%;
+			height: auto;
+			padding-bottom: 7%;
+			border-bottom: 0px solid #999;
+			display: block;
+			margin: 0 auto;
+		}
+
+			#scores_s #tec h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #555;
+				border-bottom: 0px solid #999;
+				border-top: 0px solid #999;
+				padding: 1% 0%;			
+			}
+
+			#scores_s #tec #sett{
+				width: 90%;
+				height: auto;
+			}
+
+				#scores_s #tec #sett div{
+					width: 90%;
+					height: 40px;
+					text-align: left;
+					padding: 3% 5%;
+					font-family: arial, helvetica, sans-serif;
+					font-size: 1.8rem;
+					color: #555;
+				}
+
+		#scores_s #opt{
+			width: 50%;
+			height: auto;
+			display: block;
+			margin-bottom: 7%;
+		}
+
+			#scores_s #opt h3{
+				width: 60%;
+				height: auto;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.3rem;
+				color: #555;
+				text-align: left;
+				margin: 0% 0 9% 0%;
+			}
+
+			#scores_s #opt a{
+				text-decoration: none;
+				width: 80%;
+				height: 50px;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.2rem;
+				color: white;
+				background-color: $C_blue_DT;
+				border-radius: 5px;			
+				padding: 1% 5%;
+				margin: 15% 0% 5% 0% auto;
+				cursor: pointer;		
+			}
+
+				#scores_s #opt a:hover{
+					background-color: #666;
+				}
+
+
+}

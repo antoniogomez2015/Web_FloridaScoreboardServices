@@ -1,0 +1,37 @@
+//sección de load help, para desktop
+#panel_dt{
+	width: 30%;
+	height: auto;
+	display: block;
+	margin-top: 3%;
+}
+
+	#panel_dt img{
+		width: 60%;
+		height: auto;
+	}
+
+#f_mobile_dt{
+	width: 70%;
+	height: auto;	
+}
+
+	#f_mobile_dt .teg_dt{
+		width: 100%;
+		height: 50px;		
+		margin-top: 7%;
+		text-align: left;
+	}
+
+		#f_mobile_dt h3{
+			width: 100%;
+			font-family: arial,helvetica,sans-serif;
+			font-size: 1.2rem;
+			color: #555;			
+		}
+
+		#f_mobile_dt span{			
+			font-size: 1.5rem;
+			color: #555;
+			padding-left: 10%;		
+		}

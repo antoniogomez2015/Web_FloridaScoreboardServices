@@ -1,0 +1,40 @@
+
+//mobile first load_index_dir_mobile.scss
+
+#index_dir{
+	width: 100%;	
+	height: auto;
+	min-height: 100%;
+	margin-top: 4%;	 
+}
+
+	#index_dir div{
+		width: 100%;
+		height: auto;
+		background-color: $C_blue_DT;
+		border-radius: 3%;
+		margin-bottom: 2%;
+		padding: 0.6% 5%;
+	}
+
+		#index_dir div h2{
+			font-size: 1.5rem;
+			font-weight: 600;
+			color: $C_blue_DT;
+		}
+
+		#index_dir div h3{
+			font-size: 1.2rem;
+			font-weight: 600;
+			color: $C_white_G;
+			margin: 10px 0px 10px 0px;
+		}
+
+		#index_dir div p{
+			font-size: 1.2rem;
+			text-align: left;
+			line-height: 30px;
+			font-weight: 600;
+			color: $C_white_G;
+			margin: 10px 0px 10px 0px;
+		}

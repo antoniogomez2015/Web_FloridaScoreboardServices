@@ -1,0 +1,28 @@
+
+//tablets header
+@media (min-width: 450px) and (max-width: 1100px){
+
+	#id{
+		width: 100%;
+		min-height: 17%;		
+		cursor: pointer;	
+	}
+
+		
+		#id source{	
+			width: 100%;
+			height: auto;	
+			cursor: pointer;
+		}
+
+		#id img{
+			width: 80%;
+			height: auto;
+		}
+
+	#enc{
+		display: none;
+	}
+		
+		
+}

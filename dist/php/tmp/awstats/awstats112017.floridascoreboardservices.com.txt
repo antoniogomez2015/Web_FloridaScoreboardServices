@@ -1,0 +1,314 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201711 will be lost/reset.
+# Last config file used to build this data file was /home/floridas/tmp/awstats/awstats.floridascoreboardservices.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2026                
+POS_TIME 2703                
+POS_VISITOR 7345                
+POS_DAY 8074                
+POS_DOMAIN 3257                
+POS_LOGIN 3541                
+POS_ROBOT 3696                
+POS_WORMS 3946                
+POS_EMAILSENDER 4077                
+POS_EMAILRECEIVER 4220                
+POS_SESSION 8226                
+POS_SIDER 8421                
+POS_FILETYPES 4355                
+POS_DOWNLOADS 4585                
+POS_OS 5504                
+POS_BROWSER 5678                
+POS_SCREENSIZE 5930                
+POS_UNKNOWNREFERER 6004                
+POS_UNKNOWNREFERERBROWSER 6117                
+POS_ORIGIN 6225                
+POS_SEREFERRALS 6361                
+POS_PAGEREFS 6505                
+POS_SEARCHWORDS 6653                
+POS_KEYWORDS 6805                
+POS_MISC 2367                
+POS_ERRORS 6864                
+POS_CLUSTER 3397                
+POS_SIDER_404 6949                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171201001207 52 9290 9441068487485
+FirstTime 20171127090437
+LastTime 20171130163244
+LastUpdate 20171201001649 52 0 51 0 0
+TotalVisits 18                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 2 15 460858 0 0 0
+6 9 56 1365262 2 2 0
+7 8 56 552124 0 0 0
+8 5 17 433708 0 0 0
+9 133 430 8716203 9 9 0
+10 6 27 603498 2 2 0
+11 0 0 0 0 0 0
+12 11 24 181418 1 2 5014
+13 0 0 0 0 0 0
+14 1 1 5014 0 0 0
+15 1 1 5014 1 11 181845
+16 3 16 458128 2 2 10028
+17 0 0 0 0 0 0
+18 0 0 0 1 4 28138
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ve 155 558 11728943
+us 21 79 1037011
+cn 1 1 5014
+gb 1 4 5245
+ua 1 1 5014
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 11 186859 20171129125053 0
+no_user_agent 2 10028 20171130161954 0
+googlebot\-image 2 28138 20171127181225 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+html 43 215602 0 0
+jpg 63 2168941 0 0
+txt 33 2463 0 0
+ttf 21 2347488 0 0
+map 3 93267 0 0
+css 191 2728848 0 0
+png 53 2379479 0 0
+php 112 219324 0 0
+js 124 2625815 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 12
+/.well-known/pki-validation/6FC53F66EDE6EFA99926708755078F67.txt 12 0 924
+/.well-known/pki-validation/7DBFF55D3CAB9C0B6923659F6EE01202.txt 5 0 385
+/.well-known/pki-validation/C78D047BCB5E003A8981D53A85F94CA8.txt 4 0 308
+/.well-known/pki-validation/8E1EDD92DDFD632C6811EE5E9538C856.txt 3 0 231
+/.well-known/pki-validation/DD038EF376511CAF146358384AA0C92E.txt 2 0 154
+/.well-known/pki-validation/2CF198EBE769AA6575BDA0FBF36183CA.txt 1 0 64
+/.well-known/pki-validation/686A66AC27EE89D0C91649EEFCCB09C7.txt 1 0 64
+/.well-known/pki-validation/079327D2F6B99B8E30C483437F7F31A8.txt 1 0 64
+/.well-known/pki-validation/5255D5646DFA3694211E3F99DAED392F.txt 1 0 64
+/.well-known/pki-validation/245CD06AB58F1BA760D02F9A840DEF90.txt 1 0 64
+/.well-known/pki-validation/34B03852DCD4AEB31FCC35F0DC15BFCE.txt 1 0 77
+/.well-known/pki-validation/0D6E09C00E5BD747F2230DB0F65855F1.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+Unknown 33 0
+ios_iphone 284 57
+linux 2 2
+winnt 56 23
+ios_ipad 16 1
+linuxandroid 170 85
+macosx 1 1
+win7 81 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+chrome61.0.3163.100 1 1
+safari9.0 283 53
+firefox50.0 1 1
+Unknown 33 0
+chrome62.0.3202.94 135 31
+firefox53.0 1 1
+chrome31.0.1650.57 1 1
+mozilla 1 1
+chrome62.0.3202.84 169 84
+android 1 1
+safari11.0 17 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20171130075046
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20171130075046
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 29 62
+From1 0 0
+From2 0 0
+From3 0 0
+From4 150 581
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 16 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/main.css.map 12 -
+/blog/ 1 http://floridascoreboardservices.com/blog/
+/robots.txt 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+190.200.162.109 61 362 8695064 20171130163244
+190.200.143.88 42 103 1813285 20171127093414
+186.185.116.132 32 32 29716 20171127093649
+200.82.188.56 11 24 181418 20171127121225
+186.185.108.77 9 37 1009460 20171128074020
+66.249.88.22 6 9 253051 20171127092528
+172.58.11.245 5 17 433708 20171128080829
+66.249.88.19 4 12 228530 20171127092539
+66.249.88.24 3 8 104448 20171127092524
+52.53.129.36 1 1 5014 20171128141234
+91.210.145.87 1 1 5014 20171127104458
+52.33.227.202 1 1 5014 20171130153134
+34.212.65.157 1 1 5014 20171128163204
+218.241.108.76 1 1 5014 20171129064255
+163.172.4.153 1 1 5014 20171130065426
+67.222.129.106 0 30 2232 
+91.199.212.132 0 3 231 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20171127 150 481 9501119 8
+20171128 24 111 2809489 6
+20171129 1 1 5014 1
+20171130 4 50 465605 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 1
+0s-30s 8
+5mn-15mn 1
+30s-2mn 3
+1h+ 1
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 43 215602 17 7
+/dist/php/scores_services.php 30 135660 0 0
+/dist/fonts/icons/ic.ttf 21 2347488 0 3
+/dist/php/load_scores_hover.php 15 15510 0 2
+/dist/php/load_L3_Support.php 11 5544 0 0
+/dist/php/load_menu_top_plus.php 8 12288 0 0
+/dist/php/load_L3_Repairs.php 8 4032 0 1
+/dist/php/load_L3_Service.php 7 3528 0 0
+/dist/php/load_L3_Maintenance.php 7 3549 0 2
+/dist/php/load_company.php 7 7413 1 1
+/dist/php/load_contacto.php 5 5740 0 2
+/dist/php/load_L3_Advisory.php 4 2020 0 0
+/dist/php/load_help.php 4 6460 0 0
+/dist/php/load_client_panel.php 4 8012 0 0
+/dist/css/main.css.map 3 93267 0 0
+/dist/php/scores_services_scoreboards.php 2 9568 0 0
+END_SIDER

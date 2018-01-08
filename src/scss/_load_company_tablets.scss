@@ -1,0 +1,44 @@
+
+//tablets load company tablets
+@media (min-width: 450px) and (max-width: 1100px){
+	
+	#uPerfil{
+		width: 100%;	
+		height: auto;
+		margin-top: 4%;
+		background-color: rgba(0,0,0, 0.7);
+		border-radius: 10px;
+	}
+
+		#uPerfil div{
+			width: 80%;
+			height: 130px;			
+			color: white;
+			margin: 8px 0px;
+			margin: auto;
+			border-bottom: 1px solid white;
+			display: table;
+		}
+
+			#uPerfil div:hover{
+				color: $hover_sobre_blue;
+			}
+
+			#uPerfil div span{
+				font-size: 2.8rem;
+				display: table-cell;
+				vertical-align: middle;		
+			} 
+
+			#uPerfil div h3{
+				width: 70%;
+				font-size: 2.0rem;
+				display: inline-block;
+				margin: 0px;
+				text-align: left;
+				display: table-cell;
+				vertical-align: middle;
+			}
+
+}
+

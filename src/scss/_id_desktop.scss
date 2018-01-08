@@ -1,0 +1,22 @@
+
+//desktop header
+@media (min-width: 1150px) and (max-width: 2800px){
+
+	#id{
+		width: 100%;	
+		display: none;
+	}
+
+	#enc{
+		width: 90%;
+		height: auto;
+		display: inherit;
+		margin: auto;
+	}
+
+		#enc img{
+			width: 100%;
+			height: auto;
+		}
+		
+}

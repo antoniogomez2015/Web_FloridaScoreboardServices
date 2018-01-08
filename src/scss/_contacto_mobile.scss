@@ -1,0 +1,60 @@
+
+//mobile first footer
+#cMap{
+	width: 100%;
+	height: auto;
+}
+
+#contact_c{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	bottom: 0%;
+	z-index: 1;
+}
+
+	#contact_c div{
+		width: 100%;
+		height: auto;
+		color: white;
+		display: table;			
+		padding: 20px 0px;
+		border-bottom: 1px solid white;
+		margin: 0 auto;
+		background: $gradient_blue1;
+	}
+
+		#contact_c div:last-child{
+			border-bottom: 0px solid transparent;
+		}
+
+			#contact_c div:last-child:hover{
+				color: #fff;
+			}
+
+		#contact_c div:hover{
+			color: $hover_sobre_blue;
+		}
+
+		#contact_c div span{
+			width: 20%;
+			font-size: 2.5rem;
+			//color: white;			
+			display: table-cell;
+			vertical-align: middle;			
+		}
+
+		#contact_c div h3{
+			width: 80%;
+			font-size: 1.2rem;					
+			display: table-cell;
+			vertical-align: middle;
+			text-align: left;
+		} 
+
+	#map{
+		width: 100%;
+		height: auto;
+		border:none;
+		margin-top: 10%;
+	}

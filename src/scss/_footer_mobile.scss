@@ -1,0 +1,41 @@
+
+//mobile first footer
+
+footer{
+	width: 100%;
+	height: auto;
+	position: fixed;
+	bottom: 0;	
+}
+
+	#footer{
+		padding: 2% 0%;		
+		bottom: 0px;
+		background-color: $C_blue_DT_L;
+	}
+		
+		.acc_1{
+			width: 50%;
+			height: auto;
+			font-size: 1.2rem;
+			font-weight: bold;
+			color: white;
+			cursor: pointer;
+
+		}
+
+			.acc_1 span{
+				font-size: 1.7rem;
+				margin-right: 5%;
+				color: white;
+			}
+
+			#contact{
+						
+			}
+
+			#help{
+				
+			}
+
+	

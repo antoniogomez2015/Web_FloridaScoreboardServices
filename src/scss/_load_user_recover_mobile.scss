@@ -1,0 +1,47 @@
+
+//mobile first load_user_recover_mobile.scss
+
+#recover_u{
+	width: 100%;
+	height: auto;	
+	margin-top: 2%;	
+}
+
+	#recover_u .c1, .c2{
+		width: 90%;
+		font-size: 1.1rem;
+		text-align: justify;
+		color: white;
+		margin-bottom: 0px;
+	}
+
+	#recover_u .message{
+		width: 90%;
+		font-size: 1.2rem;
+		color: white;
+		text-align: justify;
+		margin: 0px;
+	} 
+
+		#recover_u .user{
+			font-size: 1.5rem;
+			margin-top: 12px;
+			color: white;
+		}
+
+		#recover_u .email{
+			font-size: 1.1rem;
+			margin: 5px 0px;
+			color: white;
+		}
+
+
+	#recover_u button{
+		width: 50%;
+		height: 30px;
+		background-color: red;
+		color: white;
+		border: 0px;
+		border-radius: 5px;
+		margin-top: 5px;
+	}

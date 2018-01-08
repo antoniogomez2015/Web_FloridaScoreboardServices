@@ -1,0 +1,111 @@
+
+/*
+
+	Inicializar Sass:
+	_________________
+
+
+		Navegar hasta la ruta del proyecto de citaMedica:
+
+			_"cd c:\xampp\htdocs\florida\src\scss", + "enter"
+
+
+		Inicializar Sass, para éste proyecto
+
+			_"sass --watch main.scss:../../dist/css/main.css --style compressed", + "enter" 
+
+
+	-------------------------------------------------------------------------------------------
+
+
+*/
+
+//estructuras
+
+//@import "_estructuras.scss";
+//@import "_variales.scss";
+@import "_est_colores.scss";
+//@import "_funciones.scss";
+
+//sections global
+@import "_body.scss";
+
+
+//sections mobile
+@import "_header_mobile.scss";
+@import "_id_mobile.scss";
+@import "_tops_mobile.scss";
+@import "_footer_mobile.scss";
+@import "_calendario_mobile.scss";
+@import "_load_mobile.scss";
+@import "_load_c_form_mobile.scss";
+
+
+
+//sections tablets
+@import "_header_tablets.scss";
+@import "_id_tablets.scss";
+@import "_tops_tablets.scss";
+@import "_footer_tablets.scss";
+
+
+//sections desktop
+@import "_header_desktop.scss";
+@import "_id_desktop.scss";
+@import "_tops_desktop.scss";
+@import "_footer_desktop.scss";
+@import "_scores_services__desktop_L2.scss";
+@import "_help_desktop_dt.scss";
+@import "_close_desktop.scss";
+@import "_load_contacto_dt.scss";
+@import "_load_c_form_desktop.scss";
+
+
+
+
+
+
+
+
+//loads mobile
+@import "_close_mobile.scss";
+@import "_help_mobile.scss";
+@import "_contacto_mobile.scss";
+@import "_load_menu_top_plus_mobile.scss";
+@import "_load_index_dir_mobile.scss";
+@import "_load_user_sesion_mobile.scss";
+@import "_load_user_recover_mobile.scss";
+@import "_load_company_mobile.scss";
+@import "_load_cita_f1_mobile.scss";
+@import "_load_cita_f2_mobile.scss";
+@import "_load_entidad_m_mobile.scss";
+@import "_load_client_set_mobile.scss";
+@import "_load_client_panel_mobile.scss";
+@import "_scores_services_mobile_L2.scss";
+@import "_L3_mobile.scss";
+
+
+
+//loads tablets
+@import "_close_tablets.scss";
+@import "_load_company_tablets.scss";
+@import "_load_menu_top_plus_tablets.scss";
+@import "_help_tablets.scss";
+@import "_contacto_tablets.scss";
+@import "_scores_services__tablets_L2.scss";
+@import "_L3_tablets.scss";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//components

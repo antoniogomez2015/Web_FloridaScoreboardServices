@@ -1,0 +1,97 @@
+
+//mobile _load_entidad_m_mobile.scss
+
+#entidad-m{
+	width: 100%;
+	height: auto;	
+	margin-top: 7%;	
+	cursor: pointer;	
+}
+
+	#entidad-m form{
+		width: 100%;
+		height: auto;
+		border-top: 1px solid white;
+		border-bottom: 1px solid white;
+		padding: 20px 0px;
+	}
+
+		#entidad-m form div{
+			width: 100%;
+			height: auto;
+			text-align: center;
+		}
+
+			#entidad-m form div#plus{
+				width: 100%;
+				height: auto;
+				margin-top: 15px;
+			}
+
+			#entidad-m form div #plus2{
+				width: 100%;
+				height: auto;
+				margin-top: 15px;
+			}
+
+			#entidad-m form div #btnPlus2{
+				display: none;
+			}
+
+
+			#entidad-m form div #plus4{
+				width: 100%;
+				height: auto;
+				margin-top: 15px;
+			}
+
+			#entidad-m form div #btnPlus4{
+				display: none;
+			}
+
+			
+			
+
+			#entidad-m form input[type="submit"]{
+				width: 90%;
+				height: 50px;
+				color: white;
+				font-weight: 600;
+				background-color: green;
+				border: 0px;
+				margin-top: 15px;
+			}
+
+			#entidad-m form div h2{
+				width: 90%;
+				font-size: 1.2rem;
+				color: white;
+				text-align: center;
+			}
+
+			#entidad-m form div h3{
+				width: 90%;
+				font-size: 1.1rem;
+				color: white;
+				text-align: center;
+			}
+
+			#entidad-m form div input{
+				width: 90%;
+				height: 50px;
+				border: 0px;
+				margin-bottom: 3px;
+			}
+
+			#entidad-m form div button{
+				width: 90%;
+				height: 50px;
+				color: black;
+				background-color: #91D9A1;
+				border: 0px;				
+				font-size: 1.1rem;
+				font-weight: 600;
+				margin: 7px 0px;
+				padding: 5px 0px 5px 0px;
+			}
+	

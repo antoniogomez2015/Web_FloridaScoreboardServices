@@ -1,0 +1,65 @@
+
+//mobile first load_user_sesion_mobile
+
+#nUser{
+	width: 100%;
+	height: auto;
+	margin-top: 10px;
+}
+
+	#nUser form{
+		width: 100%;
+		height: auto;
+		background-color: black;
+		padding: 10px 0px;
+		text-align: center;
+	}
+
+		#nUser form h2{
+			width: 100%;
+			font-size: 1.2rem;
+			color: white;
+		}
+
+		#nUser form input[type=text],
+		input[type=email],
+		input[type=password],
+		input[type=submit]{
+			width: 90%;
+			height: 50px;
+			background-color: white;
+			border: 0px;
+			margin-bottom: 6px;
+		}
+
+		#nUser form input[type=submit]{
+			background-color: red;
+			color: white;
+			font-size: 1.2rem;
+		}
+
+			#nUser form input:focus{
+				background-color: #B8D9BF;
+			}
+
+	#rUser{
+		width: 90%;
+		font-size: 1.2rem;
+		color: white;
+		margin-top: 5px;
+	}
+
+	#rUserL{
+		width: 50%;
+		height: 30px;
+		font-size: 1.2rem;
+		color: white;
+		background-color: red;
+		border-radius: 5px;
+		border: 0px;
+		margin-top: 6px;
+	}
+
+
+
+	

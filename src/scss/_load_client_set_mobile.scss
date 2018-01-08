@@ -1,0 +1,67 @@
+
+//mobile first footer
+
+#client_set{
+	width: 100%;	
+	height: auto;
+	min-height: 100%;
+	padding-top: 4%;
+	margin: auto;
+}
+
+	#id_client{
+		width: 100%;
+		height: auto;
+		border-top: 10px solid green;
+		border-radius: 10px 10px 0px 0px;
+	}
+
+		#id_client h2{
+			font-size: 1.2rem;
+			color: white;
+		}
+
+		#id_client h3{
+			font-size: 1.0rem;
+			color: white;
+		}
+
+
+	#cita_r{
+		width: 100%;
+		height: auto;
+		padding: 0px 0px 0px 10px;
+		border-top: 10px solid green;							
+	}
+
+		#cita_r h2{
+			font-size: 1.1rem;
+			color: white;
+		}
+
+		#cita_r p{
+			width: 90%;
+			font-size: 1.1rem;
+			color: white;
+			text-align: justify;
+			line-height: 15px;
+		}
+
+
+	#client_set form{
+		width: 100%;
+		height: auto;
+		margin: auto;
+		color: white;
+		font-size: 1.2rem;
+	}			
+
+		#client_set form input{
+			width: 90%;
+			height: 50px;
+			border: 0px;
+			background-color: white;
+			margin: 10px 0px 10px 0px;
+		}
+
+	

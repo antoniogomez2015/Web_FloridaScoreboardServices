@@ -1,0 +1,61 @@
+//sección de contacto para desktop
+#cMap_dt{
+	width: 400px;
+	height: auto;
+	display: block;
+	margin: 1% 0%;	
+}
+
+	#cMap_dt iframe{
+		width: 400px;
+		height: 300px;
+	}
+
+#contact_c_dt{
+	width: 50%;
+	height: auto;
+	display: block;
+	margin-top: 5%;
+}
+
+	#contact_c_dt .tag_dt{
+		width: 100%;
+		height: auto;
+		text-align: left;
+		padding-top: 0px;
+		margin: 0px;				
+	}
+
+		#contact_c_dt .tag_dt h3{
+			width: 80%;
+			font-family: arial,helvetica,sans-serif;
+			font-size: 1.2rem;
+			color: #555;
+		}
+
+		#contact_c_dt .tag_dt h3 span{
+			font-size: 1.5rem;
+			color: #555;
+			padding: 5%;
+		}
+
+	#contact_c_dt .message{
+		width: 50%;
+		height: 30px;
+		color: white;
+		background-color: $C_blue_screen;		
+		border-right: 10%;
+		cursor: pointer;
+	}
+
+		#contact_c_dt .message h3{
+			color: white;			
+			font-size: 1.4rem;
+		}
+
+		#contact_c_dt .message span{
+			color: white;			
+			font-size: 1.4rem;
+		}
+
+		

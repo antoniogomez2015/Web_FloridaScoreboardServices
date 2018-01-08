@@ -1,0 +1,27 @@
+
+//mobile first header
+
+#id{
+	width: 100%;
+	min-height: 17%;	
+	cursor: pointer;
+	padding: 7% 0;	
+	background-color: $C_white_screen;
+}
+
+	
+	#id source{	
+		width: 100%;
+		height: auto;	
+		cursor: pointer;
+	}
+	
+
+	.logo_mobile {
+		width: 100px;		
+		height: auto;			
+	}
+
+#enc{
+	display: none;
+}

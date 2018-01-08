@@ -1,0 +1,235 @@
+//seción de loads, de scores tablets
+@media (min-width: 450px) and (max-width: 1100px){
+
+	#scores_s{	
+		width: 100%;
+		height: auto;
+		margin: auto;
+	}
+
+		#intro{
+			width: 100%;
+			height: auto;
+			margin: auto;
+			padding-bottom: 7%;
+			border-bottom: 1px solid #999;
+		}
+
+			#intro h2{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #666;
+			}
+
+			#intro p{
+				width: 90%;
+				height: auto;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.6rem;
+				line-height: 1.7;
+				text-align: justify;
+				color: #666;
+				margin: auto;
+			}	
+
+			#intro #c1 h3{
+				width: 90%;
+				height: 50px;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.8rem;
+				color: white;
+				background-color: $C_blue_DT;
+				margin: 5px auto;
+				padding-top: 15px;
+				border-radius: 5px;
+				display: none;
+			}
+
+		
+			.hiden{
+				display: none;
+			}
+
+			#more, #less{
+				width: 50%;
+				height: 50px;
+				padding: 10px 20px;						
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.6rem;
+				color: #555;
+				background-color: #EEEEEF;
+				margin: 3% 0 0 5%;
+				border-radius: 8px;
+				cursor: pointer;
+			}
+
+				#less{
+					display: none;
+				}
+
+					#more, #less:hover{
+						background-color: #BFC0C2;
+					}
+
+		#tops_b{
+			width: 35%;
+			height: 60px;
+			font-family: arial,helvetica,sans-serif;
+			font-size: 1.6rem;
+			font-weight: bold;
+			color: #888;
+			background-color: #EEEEEF;
+			border-radius: 0 10px 10px 0;
+			padding-top: 10px;
+			margin: 4% 0;
+			display: none;
+		}
+
+		#topics{
+			width: 100%;
+			height: auto;
+		}
+
+
+			#topics div{
+				width: 130px;
+				height: 130px;
+				border-radius: 50%;
+				color: white;
+				padding-top: 6%;
+				margin: 2% 3%;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.5rem;
+				font-weight: bold;
+				background-color: $C_blue_DT;	
+				display: inline-block;
+			}
+
+				#topics div:hover{
+					background-color: #193957;
+				}
+
+
+		#c1{
+			width: 100%;
+			height: auto;
+			display: none;
+			margin: 5% auto;
+		}
+
+			#c1 h3{
+				width: 60%;
+				height: 75px;
+				color: white;
+				padding: 2% 0%;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.6rem;
+				background-color: $C_blue_DT;
+				border-radius: 6px;			
+				margin: 1% auto;
+			}
+
+
+		#sports{
+			width: 100%;
+			height: auto;
+			margin: auto;
+			margin-top: 6%;
+			padding-bottom: 7%;
+			border-bottom: 1px solid #999;
+			display: none;
+		}
+
+			#sports h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #555;
+				border-bottom: 1px solid #999;
+				border-top: 1px solid #999;
+				padding: 5% 0;
+			}
+
+			#sports div{
+				font-size: 1.8rem;
+				display: inline-block;
+				width: 45%;
+				height: 60px;
+				margin: 1%;
+				color: #777;
+				text-align: left;
+				padding: 2% 3% 5% 6%;
+				background-color: #EEEEEF;
+				border-radius: 5px;
+			}
+
+
+		#tec{
+			width: 100%;
+			height: auto;
+			padding-bottom: 7%;
+			border-bottom: 1px solid #999;
+			display: none;
+			margin: 0 auto;
+		}
+
+			#tec h3{
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: #555;
+				border-bottom: 1px solid #999;
+				border-top: 1px solid #999;
+				padding: 5% 0;			
+			}
+
+			#tec #sett{
+				width: 90%;
+				height: auto;
+			}
+
+				#tec #sett div{
+					width: 90%;
+					height: 40px;
+					text-align: left;
+					padding: 3% 5%;
+					font-family: arial, helvetica, sans-serif;
+					font-size: 1.8rem;
+					color: #555;
+				}
+
+		#opt{
+			width: 100%;
+			height: auto;
+			display: none;
+			margin-bottom: 7%;
+		}
+
+			#opt h3{
+				width: 90%;
+				height: auto;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 1.8rem;
+				color: #555;
+				text-align: left;
+				margin: 3% 0 9% 5%;
+			}
+
+			#opt a{
+				text-decoration: none;
+				width: 95%;
+				height: 50px;
+				font-family: arial,helvetica,sans-serif;
+				font-size: 2.0rem;
+				color: white;
+				background-color: $C_blue_DT;
+				border-radius: 5px;			
+				padding: 3% 5%;
+				margin: 15% 0% 5% 0% auto;
+				cursor: pointer;		
+			}
+
+				#opt a:hover{
+					background-color: #666;
+				}
+
+
+}

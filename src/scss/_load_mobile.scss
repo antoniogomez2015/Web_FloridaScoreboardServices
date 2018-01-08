@@ -1,0 +1,16 @@
+
+//mobile first load
+
+#load{
+	width: 100%;
+	min-width: 100%;
+	min-height: 100%;
+	height: auto;
+	background-color: rgba(0,0,0,0.9);
+	position: absolute;
+	//bottom: 0px;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	display: none;
+}
